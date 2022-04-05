@@ -1,3 +1,3 @@
-# myFirstRepostory
-this is my first repostory
+# myFirstRepository
+this is my first repository
 Create Data : 2022-04-05
